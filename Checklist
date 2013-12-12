@@ -1,0 +1,9 @@
+Acquires data from user – We implement the camera to take pictures, use twitter as well as email.
+
+Validate input  - The filter bar requires numbers
+
+CRUD – we implemented a database
+
+Analyze/process – The request to be developed button processes the current picture and sends it to the studio. We also analyze photos using the filter based on number.
+
+Report – We  use a filter to show the user the specific pictures requested. We also use the email to report the required information to the studio. 
