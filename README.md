@@ -1,3 +1,3 @@
 Munoz-Studio-App
 ================
-munoz studio YOLOSWAG
+First application for Mobile Application Development class Fall 2013. yolo
